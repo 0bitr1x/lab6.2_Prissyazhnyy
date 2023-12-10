@@ -1,4 +1,5 @@
-﻿using LibraryLab6._2;
+//сборник задач/тема 6/подтема 6.2/средний уровень/вариант 2
+using LibraryLab6._2;
 
 internal class Program
 {
